@@ -5,7 +5,7 @@
 <img align="right"  alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHn44fCwLPn-CIi-hEUFDCL1240_xgr9hQXefb1W96qfDZ-NHoDQ1q9Ui5TrmOhqAIZ8&usqp=CAU">
 <h2 align="center">👋 Hi, I’m @Ragul</h2>
 👀 I’m interested in Web Development<br>
-🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at portfolioragul.netlify.app/<br>📄 Know about my experiences- portfolioragul.netlify.app/<br>📫 How to reach me- spragul33@gmail.com
+🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at -https://portfolioragul.netlify.app<br>📄 Know about my experiences- https://portfolioragul.netlify.app<br>📫 How to reach me- spragul33@gmail.com
 
 
 # 💻 Tech Stack:
