@@ -1,21 +1,11 @@
-### Hi there 👋
+<img  height="200px" width="1000px" src="https://www.audienceplanet.com/root/template/1//images/web-development.gif">
 
-<!--
-**spragul/spragul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m interested in Web Development<br>👯 Think smart work like super Hard<br>🌱  I’m currently learning MERN <br>💬 How to reach me spragul33@gmail.com<br> ⚡ I’m looking to collaborate on with other Developers<br><br>
+ 
+<img align="right"  alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHn44fCwLPn-CIi-hEUFDCL1240_xgr9hQXefb1W96qfDZ-NHoDQ1q9Ui5TrmOhqAIZ8&usqp=CAU">
+<h2 align="center">👋 Hi, I’m @Ragul</h2>
+👀 I’m interested in Web Development<br>
+🌱 I’m currently learning- Full stack web development(MERN)<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at portfolioragul.netlify.app/<br>📄 Know about my experiences- portfolioragul.netlify.app/<br>📫 How to reach me- spragul33@gmail.com
 
 
 # 💻 Tech Stack:
